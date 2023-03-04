@@ -1,3 +1,9 @@
+### A Eaglercraft Client in Beta.
+
+This is a client that is heavily based of Resent. I will be adding more features and a title screen that isn't theirs very soon.
+
+
+Resent's Read Me: 
 # NOTICE: THE MAIN WEBSITE HAS BEEN TAKEN DOWN. USE [THIS LINK](https://reslauncher.vercel.app) FOR NOW. I DO NOT OWN THAT SITE.
 
 ## Another note: I am no longer updating the files in this repository. I do not have the time nor patience to update this repo every single update. Newest versions are in the discord
